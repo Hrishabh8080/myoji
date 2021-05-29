@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/myoji/static/css/main.d384008f.chunk.css",
+    "main.js": "/myoji/static/js/main.7c80640a.chunk.js",
+    "main.js.map": "/myoji/static/js/main.7c80640a.chunk.js.map",
+    "runtime-main.js": "/myoji/static/js/runtime-main.f36e936c.js",
+    "runtime-main.js.map": "/myoji/static/js/runtime-main.f36e936c.js.map",
+    "static/js/2.6c227875.chunk.js": "/myoji/static/js/2.6c227875.chunk.js",
+    "static/js/2.6c227875.chunk.js.map": "/myoji/static/js/2.6c227875.chunk.js.map",
+    "index.html": "/myoji/index.html",
+    "static/css/main.d384008f.chunk.css.map": "/myoji/static/css/main.d384008f.chunk.css.map",
+    "static/js/2.6c227875.chunk.js.LICENSE.txt": "/myoji/static/js/2.6c227875.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f36e936c.js",
+    "static/js/2.6c227875.chunk.js",
+    "static/css/main.d384008f.chunk.css",
+    "static/js/main.7c80640a.chunk.js"
+  ]
+}
